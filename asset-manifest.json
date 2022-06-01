@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CuvetteDashboard/static/css/main.0f2a7a91.css",
+    "main.js": "/CuvetteDashboard/static/js/main.c4ae31ed.js",
+    "static/js/787.4eaf2a42.chunk.js": "/CuvetteDashboard/static/js/787.4eaf2a42.chunk.js",
+    "static/media/logo.svg": "/CuvetteDashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CuvetteDashboard/index.html",
+    "main.0f2a7a91.css.map": "/CuvetteDashboard/static/css/main.0f2a7a91.css.map",
+    "main.c4ae31ed.js.map": "/CuvetteDashboard/static/js/main.c4ae31ed.js.map",
+    "787.4eaf2a42.chunk.js.map": "/CuvetteDashboard/static/js/787.4eaf2a42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f2a7a91.css",
+    "static/js/main.c4ae31ed.js"
+  ]
+}
